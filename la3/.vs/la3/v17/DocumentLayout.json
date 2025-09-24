@@ -3,11 +3,15 @@
   "WorkspaceRootPath": "H:\\\u0418\u0421\u0420\u041F\u041E\\l1\\la3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A24C94DB-A41A-4E09-99E4-C0D4519CE73F}|la3\\la3.csproj|H:\\\u0418\u0421\u0420\u041F\u041E\\l1\\la3\\la3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{A24C94DB-A41A-4E09-99E4-C0D4519CE73F}|la3\\la3.csproj|h:\\\u0438\u0441\u0440\u043F\u043E\\l1\\la3\\la3\\ll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A24C94DB-A41A-4E09-99E4-C0D4519CE73F}|la3\\la3.csproj|solutionrelative:la3\\ll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A24C94DB-A41A-4E09-99E4-C0D4519CE73F}|la3\\la3.csproj|h:\\\u0438\u0441\u0440\u043F\u043E\\l1\\la3\\la3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{A24C94DB-A41A-4E09-99E4-C0D4519CE73F}|la3\\la3.csproj|solutionrelative:la3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A24C94DB-A41A-4E09-99E4-C0D4519CE73F}|la3\\la3.csproj|h:\\\u0438\u0441\u0440\u043F\u043E\\l1\\la3\\la3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A24C94DB-A41A-4E09-99E4-C0D4519CE73F}|la3\\la3.csproj|H:\\\u0418\u0421\u0420\u041F\u041E\\l1\\la3\\la3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A24C94DB-A41A-4E09-99E4-C0D4519CE73F}|la3\\la3.csproj|solutionrelative:la3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -18,15 +22,28 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ll.cs",
+              "DocumentMoniker": "H:\\\u0418\u0421\u0420\u041F\u041E\\l1\\la3\\la3\\ll.cs",
+              "RelativeDocumentMoniker": "la3\\ll.cs",
+              "ToolTip": "H:\\\u0418\u0421\u0420\u041F\u041E\\l1\\la3\\la3\\ll.cs",
+              "RelativeToolTip": "la3\\ll.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T11:54:49.461Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Form1.cs",
               "DocumentMoniker": "H:\\\u0418\u0421\u0420\u041F\u041E\\l1\\la3\\la3\\Form1.cs",
               "RelativeDocumentMoniker": "la3\\Form1.cs",
@@ -39,7 +56,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "DocumentMoniker": "H:\\\u0418\u0421\u0420\u041F\u041E\\l1\\la3\\la3\\Form1.cs",
               "RelativeDocumentMoniker": "la3\\Form1.cs",

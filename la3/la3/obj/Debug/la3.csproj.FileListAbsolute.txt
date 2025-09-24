@@ -1,0 +1,10 @@
+H:\ИСРПО\l1\la3\la3\bin\Debug\la3.exe.config
+H:\ИСРПО\l1\la3\la3\bin\Debug\la3.exe
+H:\ИСРПО\l1\la3\la3\bin\Debug\la3.pdb
+H:\ИСРПО\l1\la3\la3\obj\Debug\la3.csproj.AssemblyReference.cache
+H:\ИСРПО\l1\la3\la3\obj\Debug\la3.Form1.resources
+H:\ИСРПО\l1\la3\la3\obj\Debug\la3.Properties.Resources.resources
+H:\ИСРПО\l1\la3\la3\obj\Debug\la3.csproj.GenerateResource.cache
+H:\ИСРПО\l1\la3\la3\obj\Debug\la3.csproj.CoreCompileInputs.cache
+H:\ИСРПО\l1\la3\la3\obj\Debug\la3.exe
+H:\ИСРПО\l1\la3\la3\obj\Debug\la3.pdb
