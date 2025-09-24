@@ -1,0 +1,15 @@
+H:\ИСРПО\l1\la1\la1\bin\Debug\net8.0-windows\la1.exe
+H:\ИСРПО\l1\la1\la1\bin\Debug\net8.0-windows\la1.deps.json
+H:\ИСРПО\l1\la1\la1\bin\Debug\net8.0-windows\la1.runtimeconfig.json
+H:\ИСРПО\l1\la1\la1\bin\Debug\net8.0-windows\la1.dll
+H:\ИСРПО\l1\la1\la1\bin\Debug\net8.0-windows\la1.pdb
+H:\ИСРПО\l1\la1\la1\obj\Debug\net8.0-windows\la1.GeneratedMSBuildEditorConfig.editorconfig
+H:\ИСРПО\l1\la1\la1\obj\Debug\net8.0-windows\la1.AssemblyInfoInputs.cache
+H:\ИСРПО\l1\la1\la1\obj\Debug\net8.0-windows\la1.AssemblyInfo.cs
+H:\ИСРПО\l1\la1\la1\obj\Debug\net8.0-windows\la1.csproj.CoreCompileInputs.cache
+H:\ИСРПО\l1\la1\la1\obj\Debug\net8.0-windows\la1.sourcelink.json
+H:\ИСРПО\l1\la1\la1\obj\Debug\net8.0-windows\la1.dll
+H:\ИСРПО\l1\la1\la1\obj\Debug\net8.0-windows\refint\la1.dll
+H:\ИСРПО\l1\la1\la1\obj\Debug\net8.0-windows\la1.pdb
+H:\ИСРПО\l1\la1\la1\obj\Debug\net8.0-windows\la1.genruntimeconfig.cache
+H:\ИСРПО\l1\la1\la1\obj\Debug\net8.0-windows\ref\la1.dll
